@@ -1,6 +1,6 @@
 # General
 
-HIT3DP is a pseudospectral DNS code, that is, it performs direct numerical 
+HIT3D is a pseudospectral DNS code, that is, it performs direct numerical 
 simulation of incompressible isotripic homogeneous turbulence with or without 
 forcing.  The code has capability of carrying passive scalars, Lagrangian 
 particles and Large Eddy Simulation

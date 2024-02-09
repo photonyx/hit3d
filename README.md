@@ -18,7 +18,7 @@ The code is written in Fortran 90 and uses the two open libraries:
 http://schumakov.info/codes-hit3d.php
 
 # Copyright, Licensing and Disclaimer
-Copyright (C) 2006-2017 Sergei Chumakov, Natalia Vladimirova, Misha Stepanov
+Copyright (C) 2006-2024 Sergei Chumakov, Natalia Vladimirova, Misha Stepanov
 
 The code is distributed under the terms of GNU GPLv3 license.  
 
